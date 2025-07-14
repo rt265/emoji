@@ -1,0 +1,506 @@
+{
+  "name": "Twemoji",
+  "type": "image",
+  "items": [
+    {
+      "key": "twemoji-1",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-1.png"
+    },
+    {
+      "key": "twemoji-10",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-10.png"
+    },
+    {
+      "key": "twemoji-100",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-100.png"
+    },
+    {
+      "key": "twemoji-101",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-101.png"
+    },
+    {
+      "key": "twemoji-102",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-102.png"
+    },
+    {
+      "key": "twemoji-103",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-103.png"
+    },
+    {
+      "key": "twemoji-104",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-104.png"
+    },
+    {
+      "key": "twemoji-105",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-105.png"
+    },
+    {
+      "key": "twemoji-106",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-106.png"
+    },
+    {
+      "key": "twemoji-107",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-107.png"
+    },
+    {
+      "key": "twemoji-108",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-108.png"
+    },
+    {
+      "key": "twemoji-109",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-109.png"
+    },
+    {
+      "key": "twemoji-11",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-11.png"
+    },
+    {
+      "key": "twemoji-110",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-110.png"
+    },
+    {
+      "key": "twemoji-111",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-111.png"
+    },
+    {
+      "key": "twemoji-112",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-112.png"
+    },
+    {
+      "key": "twemoji-113",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-113.png"
+    },
+    {
+      "key": "twemoji-114",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-114.png"
+    },
+    {
+      "key": "twemoji-115",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-115.png"
+    },
+    {
+      "key": "twemoji-116",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-116.png"
+    },
+    {
+      "key": "twemoji-117",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-117.png"
+    },
+    {
+      "key": "twemoji-118",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-118.png"
+    },
+    {
+      "key": "twemoji-119",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-119.png"
+    },
+    {
+      "key": "twemoji-12",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-12.png"
+    },
+    {
+      "key": "twemoji-120",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-120.png"
+    },
+    {
+      "key": "twemoji-121",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-121.png"
+    },
+    {
+      "key": "twemoji-122",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-122.png"
+    },
+    {
+      "key": "twemoji-123",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-123.png"
+    },
+    {
+      "key": "twemoji-124",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-124.png"
+    },
+    {
+      "key": "twemoji-125",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-125.png"
+    },
+    {
+      "key": "twemoji-13",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-13.png"
+    },
+    {
+      "key": "twemoji-14",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-14.png"
+    },
+    {
+      "key": "twemoji-15",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-15.png"
+    },
+    {
+      "key": "twemoji-16",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-16.png"
+    },
+    {
+      "key": "twemoji-17",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-17.png"
+    },
+    {
+      "key": "twemoji-18",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-18.png"
+    },
+    {
+      "key": "twemoji-19",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-19.png"
+    },
+    {
+      "key": "twemoji-2",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-2.png"
+    },
+    {
+      "key": "twemoji-20",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-20.png"
+    },
+    {
+      "key": "twemoji-21",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-21.png"
+    },
+    {
+      "key": "twemoji-22",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-22.png"
+    },
+    {
+      "key": "twemoji-23",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-23.png"
+    },
+    {
+      "key": "twemoji-24",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-24.png"
+    },
+    {
+      "key": "twemoji-25",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-25.png"
+    },
+    {
+      "key": "twemoji-26",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-26.png"
+    },
+    {
+      "key": "twemoji-27",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-27.png"
+    },
+    {
+      "key": "twemoji-28",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-28.png"
+    },
+    {
+      "key": "twemoji-29",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-29.png"
+    },
+    {
+      "key": "twemoji-3",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-3.png"
+    },
+    {
+      "key": "twemoji-30",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-30.png"
+    },
+    {
+      "key": "twemoji-31",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-31.png"
+    },
+    {
+      "key": "twemoji-32",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-32.png"
+    },
+    {
+      "key": "twemoji-33",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-33.png"
+    },
+    {
+      "key": "twemoji-34",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-34.png"
+    },
+    {
+      "key": "twemoji-35",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-35.png"
+    },
+    {
+      "key": "twemoji-36",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-36.png"
+    },
+    {
+      "key": "twemoji-37",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-37.png"
+    },
+    {
+      "key": "twemoji-38",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-38.png"
+    },
+    {
+      "key": "twemoji-39",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-39.png"
+    },
+    {
+      "key": "twemoji-4",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-4.png"
+    },
+    {
+      "key": "twemoji-40",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-40.png"
+    },
+    {
+      "key": "twemoji-41",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-41.png"
+    },
+    {
+      "key": "twemoji-42",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-42.png"
+    },
+    {
+      "key": "twemoji-43",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-43.png"
+    },
+    {
+      "key": "twemoji-44",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-44.png"
+    },
+    {
+      "key": "twemoji-45",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-45.png"
+    },
+    {
+      "key": "twemoji-46",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-46.png"
+    },
+    {
+      "key": "twemoji-47",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-47.png"
+    },
+    {
+      "key": "twemoji-48",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-48.png"
+    },
+    {
+      "key": "twemoji-49",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-49.png"
+    },
+    {
+      "key": "twemoji-5",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-5.png"
+    },
+    {
+      "key": "twemoji-50",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-50.png"
+    },
+    {
+      "key": "twemoji-51",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-51.png"
+    },
+    {
+      "key": "twemoji-52",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-52.png"
+    },
+    {
+      "key": "twemoji-53",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-53.png"
+    },
+    {
+      "key": "twemoji-54",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-54.png"
+    },
+    {
+      "key": "twemoji-55",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-55.png"
+    },
+    {
+      "key": "twemoji-56",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-56.png"
+    },
+    {
+      "key": "twemoji-57",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-57.png"
+    },
+    {
+      "key": "twemoji-58",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-58.png"
+    },
+    {
+      "key": "twemoji-59",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-59.png"
+    },
+    {
+      "key": "twemoji-6",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-6.png"
+    },
+    {
+      "key": "twemoji-60",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-60.png"
+    },
+    {
+      "key": "twemoji-61",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-61.png"
+    },
+    {
+      "key": "twemoji-62",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-62.png"
+    },
+    {
+      "key": "twemoji-63",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-63.png"
+    },
+    {
+      "key": "twemoji-64",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-64.png"
+    },
+    {
+      "key": "twemoji-65",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-65.png"
+    },
+    {
+      "key": "twemoji-66",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-66.png"
+    },
+    {
+      "key": "twemoji-67",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-67.png"
+    },
+    {
+      "key": "twemoji-68",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-68.png"
+    },
+    {
+      "key": "twemoji-69",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-69.png"
+    },
+    {
+      "key": "twemoji-7",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-7.png"
+    },
+    {
+      "key": "twemoji-70",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-70.png"
+    },
+    {
+      "key": "twemoji-71",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-71.png"
+    },
+    {
+      "key": "twemoji-72",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-72.png"
+    },
+    {
+      "key": "twemoji-73",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-73.png"
+    },
+    {
+      "key": "twemoji-74",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-74.png"
+    },
+    {
+      "key": "twemoji-75",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-75.png"
+    },
+    {
+      "key": "twemoji-76",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-76.png"
+    },
+    {
+      "key": "twemoji-77",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-77.png"
+    },
+    {
+      "key": "twemoji-78",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-78.png"
+    },
+    {
+      "key": "twemoji-79",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-79.png"
+    },
+    {
+      "key": "twemoji-8",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-8.png"
+    },
+    {
+      "key": "twemoji-80",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-80.png"
+    },
+    {
+      "key": "twemoji-81",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-81.png"
+    },
+    {
+      "key": "twemoji-82",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-82.png"
+    },
+    {
+      "key": "twemoji-83",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-83.png"
+    },
+    {
+      "key": "twemoji-84",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-84.png"
+    },
+    {
+      "key": "twemoji-85",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-85.png"
+    },
+    {
+      "key": "twemoji-86",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-86.png"
+    },
+    {
+      "key": "twemoji-87",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-87.png"
+    },
+    {
+      "key": "twemoji-88",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-88.png"
+    },
+    {
+      "key": "twemoji-89",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-89.png"
+    },
+    {
+      "key": "twemoji-9",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-9.png"
+    },
+    {
+      "key": "twemoji-90",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-90.png"
+    },
+    {
+      "key": "twemoji-91",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-91.png"
+    },
+    {
+      "key": "twemoji-92",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-92.png"
+    },
+    {
+      "key": "twemoji-93",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-93.png"
+    },
+    {
+      "key": "twemoji-94",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-94.png"
+    },
+    {
+      "key": "twemoji-95",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-95.png"
+    },
+    {
+      "key": "twemoji-96",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-96.png"
+    },
+    {
+      "key": "twemoji-97",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-97.png"
+    },
+    {
+      "key": "twemoji-98",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-98.png"
+    },
+    {
+      "key": "twemoji-99",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoji@3.0.0/twemoji/twemoji-99.png"
+    }
+  ]
+}
