@@ -1,0 +1,562 @@
+{
+  "name": "QQ",
+  "type": "image",
+  "items": [
+    {
+      "key": "qq-aini",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/aini.gif"
+    },
+    {
+      "key": "qq-aiqing",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/aiqing.gif"
+    },
+    {
+      "key": "qq-aoman",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/aoman.gif"
+    },
+    {
+      "key": "qq-baiyan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/baiyan.gif"
+    },
+    {
+      "key": "qq-bangbangtang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/bangbangtang.gif"
+    },
+    {
+      "key": "qq-baojin",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/baojin.gif"
+    },
+    {
+      "key": "qq-baoquan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/baoquan.gif"
+    },
+    {
+      "key": "qq-bianbian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/bianbian.gif"
+    },
+    {
+      "key": "qq-bianpao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/bianpao.gif"
+    },
+    {
+      "key": "qq-bishi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/bishi.gif"
+    },
+    {
+      "key": "qq-bizui",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/bizui.gif"
+    },
+    {
+      "key": "qq-cahan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/cahan.gif"
+    },
+    {
+      "key": "qq-caidao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/caidao.gif"
+    },
+    {
+      "key": "qq-chajin",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/chajin.gif"
+    },
+    {
+      "key": "qq-che",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/che.gif"
+    },
+    {
+      "key": "qq-chexiang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/chexiang.gif"
+    },
+    {
+      "key": "qq-ciya",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/ciya.gif"
+    },
+    {
+      "key": "qq-dabing",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/dabing.gif"
+    },
+    {
+      "key": "qq-daku",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/daku.gif"
+    },
+    {
+      "key": "qq-dangao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/dangao.gif"
+    },
+    {
+      "key": "qq-dao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/dao.gif"
+    },
+    {
+      "key": "qq-deng",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/deng.gif"
+    },
+    {
+      "key": "qq-denglong",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/denglong.gif"
+    },
+    {
+      "key": "qq-deyi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/deyi.gif"
+    },
+    {
+      "key": "qq-diaoxie",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/diaoxie.gif"
+    },
+    {
+      "key": "qq-duoyun",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/duoyun.gif"
+    },
+    {
+      "key": "qq-facai",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/facai.gif"
+    },
+    {
+      "key": "qq-fadai",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/fadai.gif"
+    },
+    {
+      "key": "qq-fadou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/fadou.gif"
+    },
+    {
+      "key": "qq-fan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/fan.gif"
+    },
+    {
+      "key": "qq-fanu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/fanu.gif"
+    },
+    {
+      "key": "qq-feiji",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/feiji.gif"
+    },
+    {
+      "key": "qq-feiwen",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/feiwen.gif"
+    },
+    {
+      "key": "qq-fendou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/fendou.gif"
+    },
+    {
+      "key": "qq-fengche",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/fengche.gif"
+    },
+    {
+      "key": "qq-ganga",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/ganga.gif"
+    },
+    {
+      "key": "qq-gaotieyouchetou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/gaotieyouchetou.gif"
+    },
+    {
+      "key": "qq-gaotiezuochetou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/gaotiezuochetou.gif"
+    },
+    {
+      "key": "qq-gouwu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/gouwu.gif"
+    },
+    {
+      "key": "qq-gouyin",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/gouyin.gif"
+    },
+    {
+      "key": "qq-guzhang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/guzhang.gif"
+    },
+    {
+      "key": "qq-haixiu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/haixiu.gif"
+    },
+    {
+      "key": "qq-hanxiao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/hanxiao.gif"
+    },
+    {
+      "key": "qq-haqian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/haqian.gif"
+    },
+    {
+      "key": "qq-hecai",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/hecai.gif"
+    },
+    {
+      "key": "qq-huaixiao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/huaixiao.gif"
+    },
+    {
+      "key": "qq-huatong",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/huatong.gif"
+    },
+    {
+      "key": "qq-huidong",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/huidong.gif"
+    },
+    {
+      "key": "qq-huitou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/huitou.gif"
+    },
+    {
+      "key": "qq-ji-e",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/ji-e.gif"
+    },
+    {
+      "key": "qq-jidong",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/jidong.gif"
+    },
+    {
+      "key": "qq-jiewu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/jiewu.gif"
+    },
+    {
+      "key": "qq-jiezhi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/jiezhi.gif"
+    },
+    {
+      "key": "qq-jingkong",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/jingkong.gif"
+    },
+    {
+      "key": "qq-jingya",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/jingya.gif"
+    },
+    {
+      "key": "qq-kafei",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/kafei.gif"
+    },
+    {
+      "key": "qq-keai",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/keai.gif"
+    },
+    {
+      "key": "qq-kelian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/kelian.gif"
+    },
+    {
+      "key": "qq-ketou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/ketou.gif"
+    },
+    {
+      "key": "qq-koubi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/koubi.gif"
+    },
+    {
+      "key": "qq-ku",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/ku.gif"
+    },
+    {
+      "key": "qq-kuaikule",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/kuaikule.gif"
+    },
+    {
+      "key": "qq-kulou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/kulou.gif"
+    },
+    {
+      "key": "qq-kun",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/kun.gif"
+    },
+    {
+      "key": "qq-lanqiu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/lanqiu.gif"
+    },
+    {
+      "key": "qq-lazhu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/lazhu.gif"
+    },
+    {
+      "key": "qq-lenghan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/lenghan.gif"
+    },
+    {
+      "key": "qq-liuhan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/liuhan.gif"
+    },
+    {
+      "key": "qq-liulei",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/liulei.gif"
+    },
+    {
+      "key": "qq-liwu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/liwu.gif"
+    },
+    {
+      "key": "qq-meigui",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/meigui.gif"
+    },
+    {
+      "key": "qq-miantiao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/miantiao.gif"
+    },
+    {
+      "key": "qq-naiping",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/naiping.gif"
+    },
+    {
+      "key": "qq-nanguo",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/nanguo.gif"
+    },
+    {
+      "key": "qq-naohuo",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/naohuo.gif"
+    },
+    {
+      "key": "qq-naozhong",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/naozhong.gif"
+    },
+    {
+      "key": "qq-no",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/no.gif"
+    },
+    {
+      "key": "qq-ok",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/ok.gif"
+    },
+    {
+      "key": "qq-piaochong",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/piaochong.gif"
+    },
+    {
+      "key": "qq-piezui",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/piezui.gif"
+    },
+    {
+      "key": "qq-pijiu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/pijiu.gif"
+    },
+    {
+      "key": "qq-pingpang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/pingpang.gif"
+    },
+    {
+      "key": "qq-qian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/qian.gif"
+    },
+    {
+      "key": "qq-qiang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/qiang.gif"
+    },
+    {
+      "key": "qq-qiaoda",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/qiaoda.gif"
+    },
+    {
+      "key": "qq-qingwa",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/qingwa.gif"
+    },
+    {
+      "key": "qq-qinqin",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/qinqin.gif"
+    },
+    {
+      "key": "qq-qiqiu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/qiqiu.gif"
+    },
+    {
+      "key": "qq-qiudale",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/qiudale.gif"
+    },
+    {
+      "key": "qq-quantou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/quantou.gif"
+    },
+    {
+      "key": "qq-ruo",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/ruo.gif"
+    },
+    {
+      "key": "qq-se",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/se.gif"
+    },
+    {
+      "key": "qq-shafa",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/shafa.gif"
+    },
+    {
+      "key": "qq-shandian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/shandian.gif"
+    },
+    {
+      "key": "qq-shengli",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/shengli.gif"
+    },
+    {
+      "key": "qq-shouqiang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/shouqiang.gif"
+    },
+    {
+      "key": "qq-shuai",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/shuai.gif"
+    },
+    {
+      "key": "qq-shuangxi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/shuangxi.gif"
+    },
+    {
+      "key": "qq-shui",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/shui.gif"
+    },
+    {
+      "key": "qq-taiyang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/taiyang.gif"
+    },
+    {
+      "key": "qq-tiaopi",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/tiaopi.gif"
+    },
+    {
+      "key": "qq-tiaosheng",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/tiaosheng.gif"
+    },
+    {
+      "key": "qq-tiaotiao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/tiaotiao.gif"
+    },
+    {
+      "key": "qq-touxiao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/touxiao.gif"
+    },
+    {
+      "key": "qq-tu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/tu.gif"
+    },
+    {
+      "key": "qq-weiqu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/weiqu.gif"
+    },
+    {
+      "key": "qq-weixiao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/weixiao.gif"
+    },
+    {
+      "key": "qq-wen",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/wen.gif"
+    },
+    {
+      "key": "qq-wushou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/wushou.gif"
+    },
+    {
+      "key": "qq-xia",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/xia.gif"
+    },
+    {
+      "key": "qq-xiangjiao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/xiangjiao.gif"
+    },
+    {
+      "key": "qq-xianwen",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/xianwen.gif"
+    },
+    {
+      "key": "qq-xiayu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/xiayu.gif"
+    },
+    {
+      "key": "qq-xigua",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/xigua.gif"
+    },
+    {
+      "key": "qq-xin",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/xin.gif"
+    },
+    {
+      "key": "qq-xinsui",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/xinsui.gif"
+    },
+    {
+      "key": "qq-xiongmao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/xiongmao.gif"
+    },
+    {
+      "key": "qq-xu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/xu.gif"
+    },
+    {
+      "key": "qq-yaowan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/yaowan.gif"
+    },
+    {
+      "key": "qq-yewan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/yewan.gif"
+    },
+    {
+      "key": "qq-yinxian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/yinxian.gif"
+    },
+    {
+      "key": "qq-yiwen",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/yiwen.gif"
+    },
+    {
+      "key": "qq-yongbao",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/yongbao.gif"
+    },
+    {
+      "key": "qq-youhengheng",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/youhengheng.gif"
+    },
+    {
+      "key": "qq-youjian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/youjian.gif"
+    },
+    {
+      "key": "qq-youtaiji",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/youtaiji.gif"
+    },
+    {
+      "key": "qq-yun",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/yun.gif"
+    },
+    {
+      "key": "qq-yusan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/yusan.gif"
+    },
+    {
+      "key": "qq-zaijian",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/zaijian.gif"
+    },
+    {
+      "key": "qq-zhadan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/zhadan.gif"
+    },
+    {
+      "key": "qq-zhemo",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/zhemo.gif"
+    },
+    {
+      "key": "qq-zhijin",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/zhijin.gif"
+    },
+    {
+      "key": "qq-zhouma",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/zhouma.gif"
+    },
+    {
+      "key": "qq-zhuakuang",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/zhuakuang.gif"
+    },
+    {
+      "key": "qq-zhuanquan",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/zhuanquan.gif"
+    },
+    {
+      "key": "qq-zhutou",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/zhutou.gif"
+    },
+    {
+      "key": "qq-zuohengheng",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/zuohengheng.gif"
+    },
+    {
+      "key": "qq-zuotaiji",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/zuotaiji.gif"
+    },
+    {
+      "key": "qq-zuqiu",
+      "val": "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.0/qq/zuqiu.gif"
+    }
+  ]
+}
