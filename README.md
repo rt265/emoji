@@ -10,6 +10,16 @@ https://gcore.jsdelivr.net/gh/rt265/emoji@main/README.md
 
 本仓库 Fork 自 XAOXUU 的 [cdn-x](https://github.com/cdn-x/emoticons)。
 
-index.json 的部分内容来自 [artalk-emoticons](https://github.com/alink/artalk-emoticons)
+若需要 OwO 格式表情包资源，请访问 `artalk/` 目录。
 
-AAAA（ああああ）表情包由[東雲Nano](https://space.bilibili.com/1013502048) 汉化
+`index.json` 的部分内容来自 [artalk-emoticons](https://github.com/alink/artalk-emoticons)
+
+---
+
+AAAA（ああああ）表情包作者为 [こぎのきゐ](https://www.pixiv.net/users/188231)，由[東雲Nano](https://space.bilibili.com/1013502048) 汉化
+
+Blobcat: [DuckOfDisorder/BlobCats](https://github.com/DuckOfDisorder/BlobCats)
+
+wlf/neocat: [VOLPEON](https://volpeon.ink/) with License
+
+twemoji: [twitter/twemoji](https://github.com/twitter/twemoji)

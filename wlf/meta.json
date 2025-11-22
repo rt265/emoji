@@ -1,0 +1,394 @@
+{
+  "metaVersion": 2,
+  "host": "icy.wyvern.rip",
+  "exportedAt": "2025-09-09T17:12:22Z",
+  "emojis": [
+    {
+      "downloaded": true,
+      "fileName": "wlfAghast.png",
+      "emoji": {
+        "name": "wlfAghast",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfAlert.png",
+      "emoji": {
+        "name": "wlfAlert",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfAngel.png",
+      "emoji": {
+        "name": "wlfAngel",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfAwoo.png",
+      "emoji": {
+        "name": "wlfAwoo",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfBlep.png",
+      "emoji": {
+        "name": "wlfBlep",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfBoop.png",
+      "emoji": {
+        "name": "wlfBoop",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfBrace.png",
+      "emoji": {
+        "name": "wlfBrace",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfChuckle.png",
+      "emoji": {
+        "name": "wlfChuckle",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfCool.png",
+      "emoji": {
+        "name": "wlfCool",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfCry.png",
+      "emoji": {
+        "name": "wlfCry",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfDrink.png",
+      "emoji": {
+        "name": "wlfDrink",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfEvil.png",
+      "emoji": {
+        "name": "wlfEvil",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfFacepaw.png",
+      "emoji": {
+        "name": "wlfFacepaw",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfFlat.png",
+      "emoji": {
+        "name": "wlfFlat",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfHide.png",
+      "emoji": {
+        "name": "wlfHide",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfHyper.png",
+      "emoji": {
+        "name": "wlfHyper",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfKnife.png",
+      "emoji": {
+        "name": "wlfKnife",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfLick.png",
+      "emoji": {
+        "name": "wlfLick",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfLurk.png",
+      "emoji": {
+        "name": "wlfLurk",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfNervous.png",
+      "emoji": {
+        "name": "wlfNervous",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfNomCookie.png",
+      "emoji": {
+        "name": "wlfNomCookie",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfNomPizza.png",
+      "emoji": {
+        "name": "wlfNomPizza",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfNom.png",
+      "emoji": {
+        "name": "wlfNom",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfNuzzle.png",
+      "emoji": {
+        "name": "wlfNuzzle",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfPatFlat.png",
+      "emoji": {
+        "name": "wlfPatFlat",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfPat.png",
+      "emoji": {
+        "name": "wlfPat",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfPlead.png",
+      "emoji": {
+        "name": "wlfPlead",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlf.png",
+      "emoji": {
+        "name": "wlf",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfPossessed.png",
+      "emoji": {
+        "name": "wlfPossessed",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfProcess.png",
+      "emoji": {
+        "name": "wlfProcess",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfReject.png",
+      "emoji": {
+        "name": "wlfReject",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfScared.png",
+      "emoji": {
+        "name": "wlfScared",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfScream.png",
+      "emoji": {
+        "name": "wlfScream",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfSnarl.png",
+      "emoji": {
+        "name": "wlfSnarl",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfSniff.png",
+      "emoji": {
+        "name": "wlfSniff",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfSnootpaw.png",
+      "emoji": {
+        "name": "wlfSnootpaw",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfTeehee.png",
+      "emoji": {
+        "name": "wlfTeehee",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfThink.png",
+      "emoji": {
+        "name": "wlfThink",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfTilt.png",
+      "emoji": {
+        "name": "wlfTilt",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfTired.png",
+      "emoji": {
+        "name": "wlfTired",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfUpsidedown.png",
+      "emoji": {
+        "name": "wlfUpsidedown",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfWhat.png",
+      "emoji": {
+        "name": "wlfWhat",
+        "category": "wlf",
+        "aliases": []
+      }
+    },
+    {
+      "downloaded": true,
+      "fileName": "wlfWoozy.png",
+      "emoji": {
+        "name": "wlfWoozy",
+        "category": "wlf",
+        "aliases": []
+      }
+    }
+  ]
+}
