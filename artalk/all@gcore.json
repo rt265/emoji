@@ -1,7 +1,7 @@
 [
-  "https://cdn.jsdelivr.net/gh/rt265/emoji/artalk/default.json",
-  "https://cdn.jsdelivr.net/gh/rt265/emoji/artalk/blobcat.json",
-  "https://cdn.jsdelivr.net/gh/rt265/emoji/artalk/qq.json",
-  "https://cdn.jsdelivr.net/gh/rt265/emoji/artalk/tieba.json",
-  "https://cdn.jsdelivr.net/gh/rt265/emoji/artalk/AAAA.json"
+  "https://gcore.jsdelivr.net/gh/rt265/emoji@main/artalk/default.json",
+  "https://gcore.jsdelivr.net/gh/rt265/emoji@main/artalk/blobcat.json",
+  "https://gcore.jsdelivr.net/gh/rt265/emoji@main/artalk/qq.json",
+  "https://gcore.jsdelivr.net/gh/rt265/emoji@main/artalk/tieba.json",
+  "https://gcore.jsdelivr.net/gh/rt265/emoji@main/artalk/AAAA.json"
 ]
