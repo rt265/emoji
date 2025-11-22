@@ -1,7 +1,7 @@
 [
-  "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.1/artalk/blobcat.json",
-  "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.1/artalk/qq.json",
-  "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.1/artalk/tieba.json",
-  "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.1/artalk/aru.json",
-  "https://gcore.jsdelivr.net/gh/cdn-x/emoticons@3.1/artalk/twemoji.json"
+  "https://cdn.jsdelivr.net/gh/rt265/emoji/artalk/default.json",
+  "https://cdn.jsdelivr.net/gh/rt265/emoji/artalk/blobcat.json",
+  "https://cdn.jsdelivr.net/gh/rt265/emoji/artalk/qq.json",
+  "https://cdn.jsdelivr.net/gh/rt265/emoji/artalk/tieba.json",
+  "https://cdn.jsdelivr.net/gh/rt265/emoji/artalk/AAAA.json"
 ]
