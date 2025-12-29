@@ -6,7 +6,7 @@ https://www.jsdelivr.com/package/gh/rt265/emoji
 
 文件路径：
 
-https://gcore.jsdelivr.net/gh/rt265/emoji@main/README.md
+https://gcore.jsdelivr.net/gh/rt265/emoji@{tag}/README.md
 
 本仓库 Fork 自 XAOXUU 的 [cdn-x](https://github.com/cdn-x/emoticons)。
 
